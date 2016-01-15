@@ -29,7 +29,7 @@ setup(
     packages=find_packages(),
     install_requires=[
         "django-appconf>=0.5",
-        "django-user-accounts>=1.0c4"
+        "django-user-accounts==1.1.0"
     ],
     tests_require=[
         "Django>=1.4",
